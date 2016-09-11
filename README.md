@@ -1,2 +1,4 @@
 # resume
-This is my resume :- Anchit Gupta
+This is my resume.
+
+Compile it using pdftex.
